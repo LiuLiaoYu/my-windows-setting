@@ -43,6 +43,27 @@ Windows 10
 
 
 
+
+
+
+
+注册表 reg 文件
+
+```reg
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
+"Scancode Map"=hex:00,00,00,00,00,00,00,00,02,00,00,00,5c,e0,38,e0,00,00,00,00
+```
+
+
+
+
+
+
+
+
+
 ### 鼠标
 
 中键(滚轮按键) -> Ctrl+W
@@ -120,6 +141,12 @@ Vimium C：
 
 
 
+
+
+
+
+
+
 ### 软件
 
 PowerToys
@@ -145,11 +172,9 @@ Weasel
 
 
 
-输入法
+### 输入法
 
 小鹤双拼
-
-
 
 
 
